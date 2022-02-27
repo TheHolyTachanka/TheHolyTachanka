@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm TheHolyTachanka</h1>
-<h3 align="center">A block game griefer and a developer wanabe</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theholytachanka&label=Profile%20views&color=0e75b6&style=flat" alt="theholytachanka" /> </p>
 
@@ -13,11 +12,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheHolyTachanka?tab=repositories](https://github.com/TheHolyTachanka?tab=repositories)
 
+- 📝 I regularly write articles on [https://theholytachanka.hashnode.dev/](https://theholytachanka.hashnode.dev/)
+
 - 💬 Ask me about **Block game hacks**
 
 - 📫 How to reach me **TeamSlav.info@gmail.com**
 
-- ⚡ Fun fact **Im a profesional brawlhalla spammer**
+- 📄 Know about my experiences [https://www.linkedin.com/in/theholy-tachanka-39155622a/](https://www.linkedin.com/in/theholy-tachanka-39155622a/)
+
+- ⚡ Fun fact **Im a profesional Brawlhalla spammer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,13 +29,10 @@
 <a href="https://twitter.com/ussr_is_da_best" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ussr_is_da_best" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/theholytachanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theholytachanka" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/theholytachanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="theholytachanka" height="30" width="40" /></a>
-<a href="https://dribbble.com/theholytachanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="theholytachanka" height="30" width="40" /></a>
-<a href="https://hashnode.com/@theholytachanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@theholytachanka" height="30" width="40" /></a>
 <a href="https://medium.com/@theholytachanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@theholytachanka" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/theholytachanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theholytachanka" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/theholytachanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theholytachanka" height="30" width="40" /></a>
 <a href="https://discord.gg/qFzWEP42VC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qFzWEP42VC" height="30" width="40" /></a>
-<a href="/https://theholytachanka.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://theholytachanka.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
