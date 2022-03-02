@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Block game griefer,Communist and a Wanabe Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theholytachanka&label=Profile%20views&color=0e75b6&style=flat" alt="theholytachanka" /> </p>
 
