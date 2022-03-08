@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ussr_is_da_best" target="blank"><img src="https://img.shields.io/twitter/follow/ussr_is_da_best?logo=twitter&style=for-the-badge" alt="ussr_is_da_best" /></a> </p>
 
-- 🔭 I’m currently working on [NoUkraine](https://github.com/TheHolyTachanka/NoUkraine)
+- 🔭 I’m currently working on [Pr0j3ct-L3n1n](https://github.com/TheHolyTachanka/Pr0j3ct-L3n1n)
 
 - 🌱 I’m currently learning **C#**
 
