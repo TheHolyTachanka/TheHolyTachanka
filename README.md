@@ -41,3 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theholytachanka&" alt="theholytachanka" /></p>
 
+<a href="https://app.daily.dev/TheHolyTachanka"><img src="https://api.daily.dev/devcards/f4f33a3184824ad3b5062d8ebf40bda8.png?r=9lu" width="400" alt="TheHolyTachanka's Dev Card"/></a>
