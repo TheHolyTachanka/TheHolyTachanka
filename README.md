@@ -20,6 +20,10 @@
 
 - ⚡ Fun fact **Im a trash dev**
 
+- :moneybag: If you like what i do donate on my monero wallet: 42jFLbYzEPuQYBmW5HisnK3bsehPWATkwh8tYHPJMyXfEXU6Y1G5p4mAJ298zhY9bvH5c4QCDPwmRVsSje7NUh1c8BFNfya
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/theholytachanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="theholytachanka" height="30" width="40" /></a>
