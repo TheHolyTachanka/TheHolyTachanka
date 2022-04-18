@@ -1,4 +1,4 @@
-<img align='right' src="https://media3.giphy.com/media/KWcGnX2iz0G1fMMHrO/giphy.gif?ct=g">
+<img href="https://github.com/Soviet-Linux" align='right' src="https://media3.giphy.com/media/KWcGnX2iz0G1fMMHrO/giphy.gif?ct=g">
 <h1 align="center">Hi, I'm TheHolyTachanka</h1>
 <h3 align="center">One of Soviet's devs, Wanabe programmer and a brawlhalla spammer</h3>
 
