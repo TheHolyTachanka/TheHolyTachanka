@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Im scared of C**
 
-- :moneybag: If you like what i do donate on my monero wallet: 42jFLbYzEPuQYBmW5HisnK3bsehPWATkwh8tYHPJMyXfEXU6Y1G5p4mAJ298zhY9bvH5c4QCDPwmRVsSje7NUh1c8BFNfya
+- :moneybag: If you like what i do donate on my monero wallet: 42cRsZU7vXYhDKMWNYL4W8BsNVrX5pqfGRK7c42LM3f64ayvSAcRDVtSD5heFnvfTfPyu8bhryadGXbnaZFNpTBFUkHs7gd
 
 
 
