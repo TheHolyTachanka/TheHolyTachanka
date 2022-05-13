@@ -22,6 +22,7 @@
 
 - Discord: TheHolyTachanka#9224
 - My [Youtube](https://www.youtube.com/channel/UCKpJJJkfKNBb1Pt-omzaQqg)
+- My [Website](https://theholytachanka-github-io.vercel.app/)
   
 
 <p align="left"> <a href="https://twitter.com/ussr_is_da_best" target="blank"><img src="https://img.shields.io/twitter/follow/ussr_is_da_best?logo=twitter&style=for-the-badge" alt="ussr_is_da_best" /></a> </p>
