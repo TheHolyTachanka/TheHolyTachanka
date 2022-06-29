@@ -8,7 +8,7 @@ and supporter, and passionate Rustacean.
 🌱 I’m currently learning Rust \
 ⚡ Fun fact **Im scared of C**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uyjwul4orug3jre0r5amxwwrz&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=uyjwul4orug3jre0r5amxwwrz&redirect=true) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uyjwul4orug3jre0r5amxwwrz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=uyjwul4orug3jre0r5amxwwrz&redirect=true) 
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/pTFJjckEjp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheHolyTachankaYT) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17244693) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ussr_is_da_best) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCKpJJJkfKNBb1Pt-omzaQqg) 
